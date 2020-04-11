@@ -66,3 +66,14 @@ body {
     margin-bottom: 21px;
     cursor: pointer;
 }
+
+#source-container {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+#source-code {
+    color: #00ffff;
+}
